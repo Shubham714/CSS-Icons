@@ -7,4 +7,4 @@ Icons using pure CSS
 <hr>
 
 ### 💡 Facebook
-<img src="Images/Facebook Logo.png" alt="Facebook Logo">
+![Facebook Logo](https://user-images.githubusercontent.com/40699892/92588684-ffee5300-f2b6-11ea-8518-fd350f725442.png)
