@@ -8,3 +8,8 @@ Icons using pure CSS
 
 ### 💡 Facebook
 ![Facebook Logo](https://user-images.githubusercontent.com/40699892/92588684-ffee5300-f2b6-11ea-8518-fd350f725442.png)
+
+<hr>
+
+### 💡 Bracket
+![Bracket Logo](https://user-images.githubusercontent.com/40699892/92712984-08f32900-f378-11ea-9977-123ebcee4d81.png)
