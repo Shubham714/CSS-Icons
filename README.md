@@ -13,3 +13,8 @@ Icons using pure CSS
 
 ### 💡 Bracket
 ![Bracket Logo](https://user-images.githubusercontent.com/40699892/92712984-08f32900-f378-11ea-9977-123ebcee4d81.png)
+
+<hr>
+
+### Windows 10
+![Windows 10 Logo](https://user-images.githubusercontent.com/40699892/92942116-d415cd80-f46e-11ea-8706-b5d3c154fd0c.png)
