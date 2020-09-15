@@ -19,6 +19,7 @@ Icons using pure CSS
 ### Windows 10
 ![Windows 10 Logo](https://user-images.githubusercontent.com/40699892/92942116-d415cd80-f46e-11ea-8706-b5d3c154fd0c.png)
 
+<hr>
 
 ### Gmail 
 ![Gmail Logo](https://user-images.githubusercontent.com/40699892/93236729-cb8a0380-f79c-11ea-8069-fc441880a39c.png)
