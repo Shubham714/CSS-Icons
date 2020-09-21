@@ -21,5 +21,7 @@ Icons using pure CSS
   <tr>
     <td><p>Google</p><img src="https://user-images.githubusercontent.com/40699892/93754457-652f3600-fc1f-11ea-85a9-8f2d1fbcba69.png" alt="Google">
 </td>
+    <td><p>YouTube</p><img src="https://user-images.githubusercontent.com/40699892/93755617-3d40d200-fc21-11ea-8617-ba145560289a.png" alt="YouTube">
+</td>
   </tr>
   </table>
