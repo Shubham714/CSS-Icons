@@ -18,4 +18,8 @@ Icons using pure CSS
     <td><p>Figma</p><img src="https://user-images.githubusercontent.com/40699892/93329155-62f16400-f83a-11ea-92f0-e2a815a9d526.png" alt="Figma">
 </td>
   </tr>
+  <tr>
+    <td><p>Google</p><img src="https://user-images.githubusercontent.com/40699892/93754457-652f3600-fc1f-11ea-85a9-8f2d1fbcba69.png" alt="Google">
+</td>
+  </tr>
   </table>
