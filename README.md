@@ -19,7 +19,7 @@
   <tr>
     <td><p>Windows 10</p><img src="https://user-images.githubusercontent.com/40699892/92942116-d415cd80-f46e-11ea-8706-b5d3c154fd0c.png" alt="Windows 10">
 </td>
-    <td><p>Gmail</p><img src="https://user-images.githubusercontent.com/40699892/93236729-cb8a0380-f79c-11ea-8069-fc441880a39c.png" alt="Gmail">
+    <td><p>React</p><img src="https://user-images.githubusercontent.com/40699892/94002989-41532800-fdb8-11ea-8739-e7fb0e8677ec.png" alt="React">
 </td>
     <td><p>Figma</p><img src="https://user-images.githubusercontent.com/40699892/93329155-62f16400-f83a-11ea-92f0-e2a815a9d526.png" alt="Figma">
 </td>
@@ -29,7 +29,7 @@
 </td>
     <td><p>YouTube</p><img src="https://user-images.githubusercontent.com/40699892/93755617-3d40d200-fc21-11ea-8617-ba145560289a.png" alt="YouTube">
 </td>
-    <td><p>React</p><img src="https://user-images.githubusercontent.com/40699892/94002989-41532800-fdb8-11ea-8739-e7fb0e8677ec.png" alt="React">
-</td>
+  <td><p>Gmail</p><img src="https://user-images.githubusercontent.com/40699892/93236729-cb8a0380-f79c-11ea-8069-fc441880a39c.png" alt="Gmail">
+  </td>
   </tr>
   </table>
