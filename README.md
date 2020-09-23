@@ -23,5 +23,7 @@ Icons using pure CSS
 </td>
     <td><p>YouTube</p><img src="https://user-images.githubusercontent.com/40699892/93755617-3d40d200-fc21-11ea-8617-ba145560289a.png" alt="YouTube">
 </td>
+    <td><p>React</p><img src="https://user-images.githubusercontent.com/40699892/94002989-41532800-fdb8-11ea-8739-e7fb0e8677ec.png" alt="React">
+</td>
   </tr>
   </table>
